@@ -49,7 +49,7 @@ To customize the appearance of VizCraft, you can create a `.streamlit` folder in
 
 ### Steps:
 
-1. Create the folder named " .streamlit ":
+1. Create the folder named " .streamlit ".
 
 2. Inside the .streamlit/ folder, add the files(.toml) already provided in the repository.
 
