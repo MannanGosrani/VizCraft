@@ -2,5 +2,6 @@ streamlit
 pandas
 matplotlib
 seaborn
-sweetviz
+sweetviz==2.1.4
 plotly
+setuptools==80.9.0
