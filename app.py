@@ -26,7 +26,8 @@ if uploaded_file is not None:
         st.markdown("### 🧾 Data Overview")
 
         with st.expander("📋 Show Raw Data"):
-            st.dataframe(df)
+            st.dataframe(df.astype(str))
+
 
         with st.expander("🔍 Dataset Info"):
             st.markdown(f"- **Shape:** {df.shape}")
