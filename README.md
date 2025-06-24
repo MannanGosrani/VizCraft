@@ -16,7 +16,7 @@ Whether you're exploring datasets for a project, preparing reports, or experimen
 ## Features
 
 ### File Upload & Parsing
-- Upload CSV files of any size
+- Upload CSV files of any size upto 200MB
 - Automatically detects column types (numeric and categorical)
 
 ### Tab 1: Overview
