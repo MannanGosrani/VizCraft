@@ -1,7 +1,7 @@
 streamlit
-pandas==1.5.3
+pandas==2.3.0
 matplotlib
 seaborn
-sweetviz==2.1.4
+sweetviz==2.3.1
 plotly
 setuptools==80.9.0
